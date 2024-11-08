@@ -176,4 +176,3 @@ LOCATION '/mnt/curated/sales/';
 1. **Documentação Apache Spark**: [https://spark.apache.org/docs/latest/](https://spark.apache.org/docs/latest/)
 2. **Conectar-se ao Azure Data Lake Storage Gen2 e ao Armazenamento de Blobs**: 
 [databricks/connect/storage/azure-storage](https://learn.microsoft.com/pt-br/azure/databricks/connect/storage/azure-storage)
-# pipeline_dados_databriks
